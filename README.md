@@ -18,6 +18,7 @@
 
 ## Unix
 
+* [everything curl](https://everything.curl.dev/)
 * [The pfSense book](https://docs.netgate.com/pfsense/en/latest/index.html)
 * [CLI Text Processing](https://learnbyexample.github.io/cli_text_processing_coreutils/)
 * [CLI Computing](https://learnbyexample.github.io/cli-computing/)
@@ -26,6 +27,11 @@
 * [GNU sed](https://learnbyexample.github.io/learn_gnused/)
 * [Vim ref](https://learnbyexample.github.io/vim_reference/)
 * [GNU ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
+
+
+## Web Development Errata
+
+* [Plain Vanilla](https://plainvanillaweb.com/)
 
 
 ## HTMX
