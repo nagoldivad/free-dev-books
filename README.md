@@ -1,6 +1,11 @@
 # Free books for developers
 
 
+## Introduction
+
+This is my little list of useful eBooks and lessons for developers.
+
+
 ## JavaScript
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/) 4th edition (2024)
@@ -31,12 +36,18 @@
 
 ## Web Development Errata
 
-* [Plain Vanilla](https://plainvanillaweb.com/)
+* [HTML for People](https://www.htmlforpeople.com/) - basic HTML for non-techies
+* [Plain Vanilla](https://plainvanillaweb.com/) - An explainer for doing web development using only vanilla techniques. No tools, no frameworks...
 
 
 ## HTMX
 
 * [Little HTMX Book](https://littlehtmxbook.com/)
+
+
+## SQL
+
+* [SQLBolt](https://sqlbolt.com/) a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
 
 
 ## Other lists of free books/courses
